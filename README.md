@@ -1,3 +1,9 @@
+# This is a fork from the gem5 source
+
+The purpose of this fork is to build a GPU hosted Aquabolt PIM simulator capable of 
+running transformer applications.
+
+
 # The gem5 Simulator
 
 This is the repository for the gem5 simulator. It contains the full source code
